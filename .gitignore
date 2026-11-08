@@ -1,0 +1,27 @@
+# Virtual environment
+venv/
+.venv/
+
+# Environment variables and API keys
+.env
+.env.*
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Generated audio files
+test_voice.mp3
+
+# Logs
+*.log
+
+# IDE settings
+.vscode/
+
+# Testing cache
+.pytest_cache/
+
+# OS files
+.DS_Store
+Thumbs.db
